@@ -1,0 +1,7 @@
+Se llegue a confundir donde se imprime la cadena, lo que llega a salir en la
+pantalla, tuve un error en el ciclo "For j" y lo solucione revisando que en esa
+linea he puesto"i++" en ves de "j++". La parte más importante para mi es donde
+llegamnos armarmal la condicional del problema para que lleguen a salir pares 
+del arreglo. Aprendi a que se pueden llegar a incluir mas ciclos dentro de la 
+condición.
+

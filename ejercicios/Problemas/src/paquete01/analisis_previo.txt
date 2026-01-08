@@ -1,0 +1,5 @@
+El programa llega a necesitar un arreglo dentro de procedimineto, aqui
+se utilizaria una cadena concatenanda ya que necesita que se devuelva 
+como cadena, Se utilizará dos For para las columnas y filas y un IF ya que esta 
+condición permite solo salgannumeros pares del arreglo bidimensional. Se espera
+obtener en pantalla solo números pares del arreglo. 
