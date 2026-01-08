@@ -1,7 +1,6 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Lo más complicado del ejercicio fue entender cómo organizar los datos en una 
+matriz, ya que había que relacionar bien las viviendas con los meses. Me salio
+error de no guardar los consumos en la matriz, lo que hacía que los cálculos 
+salieran mal, y se corrigió asignando cada valor leído a su posición 
+correspondiente. La parte más importante de la solución es el cálculo del gasto 
+anual, porque resume toda la información entre viviendas. C
