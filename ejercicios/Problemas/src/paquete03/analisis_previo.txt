@@ -1,0 +1,5 @@
+Se necesita 3 procedimientos, el usuario elije por teclado las opciones de que 
+figura quiere obtener y las medidas tambien van elegidas por el usuario.El proceso
+principal es donde se pone al opciones y la función a la que van a pertenecer. Se 
+utiliza condicionales para hacer cada parte de las figuras cumpliendo con las 
+reglas matemáticas de ellas.

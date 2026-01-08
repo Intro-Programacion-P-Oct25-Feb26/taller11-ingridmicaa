@@ -13,13 +13,13 @@ import java.util.Locale;
  * @author reroes
  */
 public class Problema2 {
-
+ static Scanner entrada = new Scanner(System.in);
+      
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-        entrada.useLocale(Locale.US);
+      
 
         String vivienda[] = nombresVivienda();
         double gastoMensual[][] = gastoMensual(vivienda);
@@ -29,8 +29,7 @@ public class Problema2 {
     }
 
     public static String[] nombresVivienda() {
-        Scanner entrada = new Scanner(System.in);
-        entrada.useLocale(Locale.US);
+        
         String nombre;
         String m[] = new String[10];
         for (int i = 0; i < m.length; i++) {
@@ -42,8 +41,7 @@ public class Problema2 {
     }
 
     public static double[][] gastoMensual(String[] vivienda) {
-        Scanner entrada = new Scanner(System.in);
-        entrada.useLocale(Locale.US);
+       
         double m[][] = new double[10][12];
 
         for (int i = 0; i < m.length; i++) {
@@ -69,8 +67,7 @@ public class Problema2 {
     }
 
     public static void reporte(String[] vivienda, double[] gasto) {
-        Scanner entrada = new Scanner(System.in);
-        entrada.useLocale(Locale.US);
+       
         String cadena = "";
 
         for (int i = 0; i < vivienda.length; i++) {

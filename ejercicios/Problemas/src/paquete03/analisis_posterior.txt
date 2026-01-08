@@ -1,7 +1,5 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Se me complico en la parte de realizar el procedimiento del Triangulo porque no 
+llegue a ver que me faltaba poner un System para que se muestre en pantalla. 
+Cometí el error de no poner las Escaners de forma global y fui poniendo uno a uno,
+al final los borre y puse un static para q sea de forma global. La parte que 
+considero más importante es el procedimiento principal. 
