@@ -1,0 +1,6 @@
+Se llegara a necesitar 3 arreglos, Se llegara a necesitar 3 arreglos,registrar 
+primero el listado de viviendas y luego construir una matriz que almacene los
+consumos. Se utlizaran tanto procedimientos y funciones, además de condiciones
+como For y dentro de ellas para ingresar los valores. El resultado es tener un 
+registro completo y estructurado que permita analizar el consumo anual de cada 
+vivienda y compararlo entre ellas.
