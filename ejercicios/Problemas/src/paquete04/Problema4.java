@@ -5,17 +5,28 @@
  */
 package paquete04;
 
+import java.util.Scanner;
+import java.util.Locale;
+
+
+
 /**
  *
  * @author reroes
  */
 public class Problema4 {
-
+static Scanner entrada = new Scanner(System.in);
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+     
+
+
+
+
+
     }
     
 }
