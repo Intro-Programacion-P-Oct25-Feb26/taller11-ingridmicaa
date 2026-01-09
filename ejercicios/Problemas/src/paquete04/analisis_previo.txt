@@ -1,1 +1,8 @@
-Se debe poner los datos, para el 1 y 2 se debe invocar procedimientos, en el primer 
+Se debe poner los datos, para el 1 y 2 se debe invocar procedimientos, en el 
+primer procedimiento se va llegar a pedir datos para obtener el precio de la 
+planilla de luz y en el segundo procedimiento es para poder obtener el precio
+urbano. Los procedimientos tendran argumentos tanto del nombre del cliente y de 
+la cédula. Utilizaremos condicionales como switch para así ejecutar el proce_
+dimiento de luz o del predio según la opción que ingrese.
+ 
+

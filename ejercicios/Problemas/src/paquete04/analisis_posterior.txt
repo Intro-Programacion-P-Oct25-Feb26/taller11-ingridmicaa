@@ -1,7 +1,6 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Se me dificulto más difícil incluir los argumentos dentro de las funciones, ya 
+que no me acordaba de incluir, cometiendo ese error y lo correguí incluyendolo 
+invocando las funciones con los mismos parámetros. La parte que considero más 
+importante es la función principal inlcuyendo las opciones para escojer si desea
+calcular el valor de la luz o el predio, más las funciones. Con este ejercicio
+aprendí que se puede incluir los argumentos de forma más rápida. 
