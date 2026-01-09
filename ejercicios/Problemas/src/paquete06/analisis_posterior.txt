@@ -1,7 +1,7 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Lo más difícil fue entender cómo calcular bien la media aritmética, porque al 
+inicio se dividía en cada vuelta del ciclo y eso daba un mal resultado. El error 
+fue hacer la división dentro del bucle, lo corregí acumulando primero la suma y 
+dividiendo al final. La parte más importante de la solución es el método que suma 
+y recorrer el arreglo, porque ahí está la lógica principal. Y aprendí que la 
+desviación estándar necesita la media como base y se calcula con diferencias al 
+cuadrado

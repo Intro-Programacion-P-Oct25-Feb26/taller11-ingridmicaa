@@ -1,3 +1,6 @@
-Qué datos necesita el programa. 
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso
+Se necesita datos como el arreglo que se llama informacion, funcion de la media
+aritmética, desviación estándar, arreglo de tipo entero y arreglo de tipo decimal. 
+Existiran tres funciones y cilos For para recorrer el arreglo y calcular la suma.
+Lo principal es recorrer el arreglo dos veces: una para la media y otra para la 
+desviación. Se definen los datos, calcula la media, calcula la desviación y al 
+final imprimir resultados.
