@@ -1,7 +1,6 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+Lo que más me costó fue entender cómo manejar bien la entrada de datos porque 
+al inicio no limpiaba el salto de línea y eso hacía que se leyera vacío, el error
+que cometí fue poner la división dentro del ciclo y declarar mal el método, lo 
+corregí acumulando primero la suma y cambiando el método a void, la parte más 
+importante fue recorrer el arreglo y aplicar la condición de longitud, y aprendí 
+que debo cuidar cómo uso los bucles.

@@ -1,3 +1,6 @@
-Qué datos necesita el programa. 
-Qué proceso principal se realiza sobre esos datos. 
-Qué decisiones, condiciones, estructuras intervienen en el proceso
+
+Se necesita datos como el número de ciudades y nombre de las ciudades. El proceso,
+es crear un arreglo donde por teclado el usuario ingrese el nombre y cuantas 
+ciudades desea, se recorre el arreglo e imprime las ciudades que tengan entre 4 
+a 5 caracteres. Se utilizara un For para que se recorra el arreglo y un 
+condicional If para que se verifique el numero de caracteres.
