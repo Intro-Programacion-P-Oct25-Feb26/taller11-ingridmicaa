@@ -71,9 +71,9 @@ public class Problema2 {
         String cadena = "";
 
         for (int i = 0; i < vivienda.length; i++) {
-            cadena = String.format("%sVivienda %s\nGasto Anual:%.2f\n", cadena,
+            
+cadena = String.format("%sVivienda %s\nGasto Anual:%.2f\n", cadena,
                     vivienda[i], gasto[i]);
-
         }
         System.out.printf(cadena);
     }

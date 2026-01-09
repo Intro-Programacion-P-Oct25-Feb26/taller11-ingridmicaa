@@ -7,9 +7,6 @@ package paquete04;
 
 import java.util.Scanner;
 import java.util.Locale;
-import static paquete03.Problema3.obtenerAreaCuadrado;
-import static paquete03.Problema3.obtenerAreaRectangulo;
-import static paquete03.Problema3.obtenerAreaTriangulo;
 
 /**
  *

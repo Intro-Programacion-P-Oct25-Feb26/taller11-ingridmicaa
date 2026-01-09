@@ -1,7 +1,8 @@
-¿Qué parte del problema le resultó más difícil de comprender y por qué?
-
-¿Qué error cometió al inicio y cómo lo corrigió?
-
-¿Qué parte de la solución considera más importante?
-
-¿Qué aprendió con este ejercicio que no tenía claro antes?
+¿
+Lo más complicado fue cómo manejar la impresión de la matriz. El error principal 
+fue sobrescribir la variable cadena en cada vuelta del bucle en lugar de 
+acumularla y lo corregí usando la cadena= cadena más el salto de línea. La parte 
+más importante es el método sumaMatrices, porque ahí  se puede recorrer dos 
+matrices y sumar elemento a elemento. Lo que aprendi es que para imprimir 
+matrices en formato tabular requiere pensar en los saltos de línea y despues la 
+tabulación para q se vea ordenado.

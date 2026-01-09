@@ -1,3 +1,10 @@
 Qué datos necesita el programa. 
 Qué proceso principal se realiza sobre esos datos. 
 Qué decisiones, condiciones, estructuras intervienen en el proceso
+
+Se necesita datos como la suma y los dos arreglos que en este caso son informa_
+cion e informacion2 es decir números de filas y colunmas. Suma entre los dos 
+arreglos bidimensionales. Se llega a utilizar dos métodos en total. Utilizando 
+algunas condionales como el For para recorrer filas y colunmas de los arreglos.
+Donde primero se define los arreglos, llama al métos y finalmente muestra el 
+resultado.
